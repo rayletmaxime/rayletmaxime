@@ -9,14 +9,14 @@
 
 ## 🛠️ Technical Stack
 - 💻 HTML | CSS | JavaScript (ES6+)
-- 🚀 Material UI | Tailwind CSS | ReactJS
+- 🚀 React.js | Tailwind CSS
 - 🛢️ MongoDB | PostgreSQL
-- 🪛 Git & GitHub | Markdown | SEO | npm | Vercel
+- 🪛 Git & GitHub | Markdown | SEO | Vercel & Netlify
 - 🎨 Adobe Photoshop | Adobe Illustrator | Figma
 
 ## 🎯 My Next Steps
 - 💡 Deepen my technical skills with Tailwind CSS.
-- 👉🏼 TypeScript and NextJS.
+- 👉🏼 TypeScript and Next.js.
 - ⛔ Never stop learning things I enjoy.
 - 🤝 **Finding a tech job.**
 
