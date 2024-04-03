@@ -28,3 +28,7 @@
   <a href="mailto:mcraylet@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Email-mcraylet@gmail.com-blue?style=flat-square&logo=gmail"></a>
   <a href="https://twitter.com/mcrcoding/"><img alt="X" src="https://img.shields.io/badge/Twitter%20(X)-mcrcoding-blue?style=flat-square&logo=x"></a>
 </p>
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
