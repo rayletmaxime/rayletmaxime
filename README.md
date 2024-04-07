@@ -8,15 +8,14 @@
 - 💼 **Open to work in Front-End Development - UX/UI.**
 
 ## 🛠️ Technical Stack
-- 💻 HTML | CSS | JavaScript (ES6+)
-- 🚀 React.js | Tailwind CSS
-- 🛢️ MongoDB | PostgreSQL
+- 💻 HTML | CSS | JavaScript (ES6+) | TypeScript
+- 🚀 React.js | Next.js
+- 🖼️ SASS | Tailwind CSS
 - 🪛 Git & GitHub | Markdown | SEO | Vercel & Netlify
 - 🎨 Adobe Photoshop | Adobe Illustrator | Figma
 
 ## 🎯 My Next Steps
-- 💡 Deepen my technical skills with Tailwind CSS.
-- 👉🏼 TypeScript and Next.js.
+- 💡 Deepen my technical skills with TypeScript and Next.js.
 - ⛔ Never stop learning things I enjoy.
 - 🤝 **Finding a tech job.**
 
