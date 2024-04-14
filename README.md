@@ -11,7 +11,7 @@
 - 💻 HTML | CSS | JavaScript (ES6+) | TypeScript
 - 🚀 React.js | Next.js
 - 🖼️ SASS | Tailwind CSS
-- 🪛 Git & GitHub | Markdown | SEO | Vercel & Netlify
+- 🪛 Git & GitHub | Markdown | SEO | Vercel & Netlifya
 - 🎨 Adobe Photoshop | Adobe Illustrator | Figma
 
 ## 🎯 My Next Steps
