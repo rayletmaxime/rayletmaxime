@@ -8,7 +8,7 @@
 - 💼 **Open to work in Development - UX/UI.**
 
 ## 🛠️ Technical Stack
-- 💻 HTML | CSS | JavaScript (ES6+) | TypeScripta
+- 💻 HTML | CSS | JavaScript (ES6+) | TypeScript
 - 🚀 React.js | Next.js
 - 🖼️ SASS | Tailwind CSS
 - 🪛 Git & GitHub | Markdown | SEO | Vercel & Netlify
