@@ -4,7 +4,7 @@
 - 🏫 Studied Computer Science at the reputed French school Externat Saint Joseph - La Cordeille.
 - 🎓 Computer Science BTS graduate.
 - 🧠 Always pushing my learning limit with ease and enthusiasm.
-- ✍🏻 Pursuing Development and Graphic Design courses for UX/UI as hobbie with passion.
+- ✍🏻 Pursuing Development and Graphic Design courses for UX/UI as hobbie with passion.a
 - 💼 **Open to work in Development - UX/UI.**
 
 ## 🛠️ Technical Stack
