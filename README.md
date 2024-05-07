@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/b7UNZRX.png" />
+<img src="https://i.imgur.com/b7UNZRX.png" />a
 
 ## 👨‍💻 About Me
 - 🏫 Studied Computer Science at the reputed French school Externat Saint Joseph - La Cordeille.
