@@ -13,7 +13,7 @@
 - 🖼️ SASS | Tailwind CSS
 - 🪛 Git & GitHub | Markdown | SEO | Vercel & Netlify
 - 🎨 Adobe Photoshop | Adobe Illustrator | Figma
-
+s
 ## 🎯 My Next Steps
 - 💡 Deepen my technical skills with TypeScript and Next.js.
 - ⛔ Never stop learning things I enjoy.
