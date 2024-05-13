@@ -15,7 +15,7 @@
 - 🎨 Adobe Photoshop | Adobe Illustrator | Figma
 
 ## 🎯 My Next Steps
-- 💡 Deepen my technical skills with TypeScript and Next.js.z
+- 💡 Deepen my technical skills with TypeScript and Next.js.
 - ⛔ Never stop learning things I enjoy.
 - 🤝 **Finding a tech job.**
 
