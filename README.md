@@ -5,7 +5,7 @@
 - 🎓 Computer Science BTS graduate.
 - 🧠 Always pushing my learning limit with ease and enthusiasm.
 - ✍🏻 Pursuing Development and Graphic Design courses for UX/UI as hobbie with passion.
-- 💼 **Open to work in Development - UX/UI.**
+- 💼 **Open to work in Development - UX/UI.*
 
 ## 🛠️ Technical Stack
 - 💻 HTML | CSS | JavaScript (ES6+) | TypeScript
