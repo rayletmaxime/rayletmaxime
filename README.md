@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/b7UNZRX.png" />
 
 ## 👨‍💻 About Me
-- 🏫 Studied Computer Science at the reputed French school Externat Saint Joseph - La Cordeille.a
+- 🏫 Studied Computer Science at the reputed French school Externat Saint Joseph - La Cordeille.
 - 🎓 Computer Science BTS graduate.
 - 🧠 Always pushing my learning limit with ease and enthusiasm.
 - ✍🏻 Pursuing Development and Graphic Design courses for UX/UI as hobbie with passion.
