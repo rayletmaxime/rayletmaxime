@@ -9,7 +9,7 @@
 
 ## 🛠️ Technical Stack
 - 💻 HTML | CSS | JavaScript (ES6+) | TypeScript
-- 🚀 React.js | Next.js
+- 🚀 React.js | Next.jss
 - 🖼️ SASS | Tailwind CSS
 - 🪛 Git & GitHub | Markdown | SEO | Vercel & Netlify
 - 🎨 Adobe Photoshop | Adobe Illustrator | Figma
